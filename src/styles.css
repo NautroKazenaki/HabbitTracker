@@ -1,0 +1,31 @@
+.name {
+    border: 1px solid white; 
+    background-color: blueviolet;
+    width: 15%;
+    height: 8%;
+    border-radius: 10%;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+
+.streak {
+    border: 1px solid grey; 
+    background-color: blueviolet;
+    width: 15%;
+    height: 20%;
+    border-radius: 10%;
+    margin-top: 2%;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+
+.newHabbitt {
+    background-color: violet;
+    width: 15%;
+    height: 5%;
+    border-radius: 10%;
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-top: 2%;
+    margin-bottom: 2%;
+}
